@@ -1,0 +1,21 @@
+# Transformers dan HuggingFace ecosystem
+transformers==4.40.1
+datasets==2.19.1
+tokenizers==0.19.1
+
+# PyTorch
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+
+# Untuk membaca data dan praproses
+pandas==2.2.2
+openpyxl==3.1.2
+scikit-learn==1.4.2
+
+# Tambahan untuk runtime
+tqdm==4.66.4
+numpy==1.26.4
+
+# Logging dan sistem
+regex==2024.5.15
